@@ -1,3 +1,9 @@
+############################################################################
+# Filename: tictactoe.py
+# Description: A simple Tic Tac Toe game using Tkinter
+# Author: Elias Huber
+# Date: 2025-11-11
+############################################################################
 import tkinter as tk  
 
 # Create the main window
